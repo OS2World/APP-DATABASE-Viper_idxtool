@@ -1,0 +1,14 @@
+VX-REXX OS/2 V2.13 Build B3
+VRX: idxtool.VRX
+VRX: Newidx.VRX
+VRX: Prdinfo.VRX
+MacroPath: VRM:C:\VXREXX\Projects\Index Utility
+EXEPath: 
+RunParameters: 
+RunDirectory: C:\VXREXX\Projects\Index Utility
+VRXWindow: __VREMainWindow,1,-74,-59,7378,9756
+VRXWindow: __VREFileListWindow,1,1355,6805,2665,3358
+VRXWindow: __VRESectionListWindow,1,1897,4878,2650,3342
+VRXWindow: __VREToolsWindow,1,979,7889,6537,1694
+UserFile: 2
+UserWindow: Newidx,1
